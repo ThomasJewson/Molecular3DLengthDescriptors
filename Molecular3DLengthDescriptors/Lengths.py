@@ -8,8 +8,8 @@ except ImportError:
         "`numpy` and `rdkit` installed.")
 
 
-def GetLengthsRMSD(real_lengths,computed_lenths):
-    squared_dev = [(real_lengths - computed_lenths)**2 for csd_len, smile_len in zip(csd_lengths, smiles_lengths)]
+def GetLengthsRMSD(real_lengths,computed_lengths):
+    squared_dev = [(real_len - compute_len)**2 for real_len, compute_len in zip(real_lengths, computed_lengths)]
     return np.sqrt(np.mean(squared_dev))
 
 def GetLengthsFromCoords(coord_arr):
