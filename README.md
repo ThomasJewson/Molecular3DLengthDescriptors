@@ -196,9 +196,11 @@ help(md.Descriptors.CalcAllDesc)
 If you use this package please feel free to reference us:
 
 Jewson, T., & Cooper, R. I. (2021). Molecular3DLengthDescriptors (1.0.0). https://github.com/ThomasJewson/Molecular3DLengthDescriptors
+```
 @misc{Jewson2021,
 author = {Jewson, Thomas and Cooper, Richard I.},
 title = {{Molecular3DLengthDescriptors}},
 url = {https://github.com/ThomasJewson/Molecular3DLengthDescriptors},
 year = {2021}
 }
+```
