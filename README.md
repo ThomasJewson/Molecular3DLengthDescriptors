@@ -40,8 +40,6 @@ INSERT PICTURE HERE
 ```python
 import Molecular3DLengthDescriptors as md
 ```
-
-    RDKit WARNING: [19:03:29] Enabling RDKit 2019.09.3 jupyter extensions
     
 
 2. Calculate 3D coordinates of 2D molecule
