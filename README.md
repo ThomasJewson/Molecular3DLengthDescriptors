@@ -18,7 +18,9 @@ You can use this tool to do the following:
 
 ### Installation
 
-Installation of this package is standard.
+Installation of this package requires Python 3+. 
+
+You can install this package two ways...
 
 via pip:
 
