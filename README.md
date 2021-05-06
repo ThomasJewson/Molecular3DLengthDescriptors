@@ -26,7 +26,7 @@ via pip:
 
 (https://pypi.org/project/Molecular3DLengthDescriptors/)
 
-Or manually, by placing this folder within 
+Or manually, by placing the Molecular3DLengthDescriptors folder within 
 
 `~/.local/lib/pythonX.X/site-packages`
 
