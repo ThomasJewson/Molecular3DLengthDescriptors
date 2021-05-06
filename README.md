@@ -32,7 +32,7 @@ Or manually, by placing this folder within
 
 ### How Molecular3DLengthDescriptors module works
 
-INSERT PICTURE HERE
+![png](Molecular3DLengthDescriptors_pictures/HowMolecular3DLengthDescriptorsWorks.png)
 
 1. Import package
 
@@ -56,7 +56,7 @@ mol_2D
 
 
 
-![png](Testing-Final-Descriptors_files/Testing-Final-Descriptors_3_0.png)
+![png](Molecular3DLengthDescriptors_pictures/Molecule.png)
 
 
 
