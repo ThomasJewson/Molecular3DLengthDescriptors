@@ -30,6 +30,11 @@ Or manually, by placing this folder within
 
 `~/.local/lib/pythonX.X/site-packages`
 
+The `rdkit` and `numpy` are dependencies for this package. Install them with the following:
+
+`conda install numpy`
+`pip install rdkit-pypi`
+
 ### How Molecular3DLengthDescriptors module works
 
 ![png](Molecular3DLengthDescriptors_pictures/HowMolecular3DLengthDescriptorsWorks.png)
