@@ -30,7 +30,7 @@ Or manually, by placing this folder within
 
 `~/.local/lib/pythonX.X/site-packages`
 
-The `rdkit` and `numpy` are dependencies for this package. Install them with the following:
+The `rdkit` and `numpy` libraries are dependencies for this package. Install them with the following:
 
 `conda install numpy`
 `pip install rdkit-pypi`
