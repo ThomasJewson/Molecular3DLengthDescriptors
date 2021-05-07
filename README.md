@@ -35,7 +35,8 @@ Or manually, by placing the Molecular3DLengthDescriptors folder within
 The `rdkit` and `numpy` libraries are dependencies for this package. Install them with the following:
 
 `conda install numpy`
-`pip install rdkit-pypi`
+
+https://www.rdkit.org/docs/Install.html
 
 ### How Molecular3DLengthDescriptors module works
 
