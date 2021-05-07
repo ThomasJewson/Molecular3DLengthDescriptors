@@ -52,6 +52,7 @@ import Molecular3DLengthDescriptors as md
 
 2. Calculate 3D coordinates of 2D molecule
 
+This uses code is based off Wicker et al's nConf20 descriptor (10.1021/acs.jcim.6b00565).
 
 ```python
 from rdkit.Chem import MolFromSmiles
